@@ -1,0 +1,17 @@
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\bin\Debug\net8.0-windows\Ping_Pong_Game.exe
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\bin\Debug\net8.0-windows\Ping_Pong_Game.deps.json
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\bin\Debug\net8.0-windows\Ping_Pong_Game.runtimeconfig.json
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\bin\Debug\net8.0-windows\Ping_Pong_Game.dll
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\bin\Debug\net8.0-windows\Ping_Pong_Game.pdb
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\Ping_Pong_Game.Form1.resources
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\Ping_Pong_Game.Properties.Resources.resources
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\Ping_Pong_Game.csproj.GenerateResource.cache
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\Ping_Pong_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\Ping_Pong_Game.AssemblyInfoInputs.cache
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\Ping_Pong_Game.AssemblyInfo.cs
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\Ping_Pong_Game.csproj.CoreCompileInputs.cache
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\Ping_Pong_Game.dll
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\refint\Ping_Pong_Game.dll
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\Ping_Pong_Game.pdb
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\Ping_Pong_Game.genruntimeconfig.cache
+C:\Proger\Project VS\Ping_Pong_Game\Ping_Pong_Game\obj\Debug\net8.0-windows\ref\Ping_Pong_Game.dll
